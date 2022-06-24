@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Web3Unity/Scenes/WalletLogin.unity
     guid: cc28e1075e9584f1698219d041278648
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 95de8442ad530b74ca62e1a0b56a9a18
   m_configObjects: {}
